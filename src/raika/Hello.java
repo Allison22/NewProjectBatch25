@@ -17,6 +17,8 @@ public class Hello {
     public static void main(String[] args) {
 
         System.out.println("Raika");
+
+        System.out.println("Raika");
     }
 
 }
