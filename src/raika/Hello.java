@@ -14,5 +14,15 @@ public class Hello {
 
     //Hello Raika this is Rabia
     //Raika canim ,insallah ulasir bu mesajim sana:)
+    //step 5
+
+    //Hello Raika this is Rabia
+
+    public static void main(String[] args) {
+
+        System.out.println("Raika");
+
+        System.out.println("Raika");
+    }
 
 }
