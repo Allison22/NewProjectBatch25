@@ -25,6 +25,8 @@ public class Hello {
         System.out.println("Raika");
 
         System.out.println("new Nurcan");
+
+        System.out.println("Busra slm");
     }
 
 }
